@@ -1,2 +1,3 @@
-# cursoJs
-Curso de JavaScript
+Este proyecto es un prueba
+
+Diego Carabali
